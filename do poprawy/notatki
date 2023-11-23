@@ -9,9 +9,16 @@ zrobić zadanie nr 6.
 
 SQL na stronach html
 
+lab 7:
 funkcja admina - 
 zapytanie LIMIT - update rekordu bez limitu, to się wykona // np. limit 1
 wyszukiwanie użytkowników i zmiana hasła - limit 1 żeby tylko jednemu zmienić hasło.
 
 
 zacząć od nowa stronę - weekend.
+
+stworzyć oddzielne foldery dla projektu: 
+- css
+- html
+- img/ zdjecia
+- js - z funkcjami (kolorujtlo.js lub timedate.js)
