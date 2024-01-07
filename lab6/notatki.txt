@@ -1,0 +1,15 @@
+if (isset($_GET['content'])) {
+			$content = $_GET['content'];
+			$allowedContents = array('index', 'strona1', 'strona2', 'strona3', 'strona4', 'strona5', 'strKolorujTlo', 'filmy');
+
+				if (in_array($content, $allowedContents)) {
+					include($content . '.php');
+				} else {
+					include ('glowna.php'); // Lub inna strona domyślna dla błędnego contentu
+				}
+			} else {
+				include ('glowna.php'); // Lub inna strona domyślna, gdy nie ma ustawionego contentu
+			}
+
+
+if(!mysqli_select_db($baza, )) echo 'nie wybrano bazy';
