@@ -1,0 +1,42 @@
+.logowanie{
+	text-align: justify;
+	position: absolute;
+    left: 50%;
+    top: 45%;
+    transform: translate(-50%, -50%);
+}
+.naglowek{
+	text-align: center;
+	color: #0b5499;
+}
+.tdid{
+	background-color: #e4ad6f;
+	border: 2px solid black;
+}
+.tdnazwa{
+	background-color: #cf843d;
+	border: 2px solid black;
+}
+.tdusun{
+	background-color: #a52c2e;
+	border: 2px solid black;
+}
+.tdedytuj{
+	background-color: #1da5c7;
+	border: 2px solid black;
+}
+a{
+	text-decoration: none;  
+	color: black;
+}
+
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+td {
+	padding: 15px; 
+	text-align: center;
+}
