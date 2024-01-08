@@ -1,0 +1,22 @@
+.h1_s{
+    text-align: center;
+    color: blueviolet;
+}
+
+.formularz{
+    background-color: #e4bb95;
+	border: 2px solid black;
+}
+
+.tabela{
+    text-align: center;
+    align-items: center;
+}
+
+.kontakt{
+    text-align: justify;
+	position: absolute;
+    left: 50%;
+    top: 45%;
+    transform: translate(-50%, -50%);
+}
