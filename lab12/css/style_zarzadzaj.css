@@ -1,0 +1,43 @@
+.naglowek, h2{
+    color: blueviolet;
+    text-align: center;
+
+}
+
+form{
+    margin-left: 10%;
+}
+
+h2{
+    background-color: rgb(124, 197, 173);
+    text-align: center;
+}
+
+p{
+    background-color: bisque;
+    text-align: center;
+}
+
+.produkty{
+    width: 40%;
+    background-color: azure;
+    float: left;
+}
+
+.koszyk_css{
+    float: right;
+    width: 40%;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+
+.zamowienie{
+    background-color: #ffcad4;
+    width : 50%;
+    height: 80%;
+    margin: auto;
+}
+
+.zamowienie_tekst{
+    font-size: large;
+}
